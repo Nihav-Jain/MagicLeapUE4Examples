@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{44DBFF53-4EC8-1640-51A4-F48D6F1C8F43}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MagicLeapUE4Examples",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
